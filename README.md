@@ -1,6 +1,10 @@
-## 0x01 - Who am i ?
+### 0x01 - Me
 
-## 0x02 - How to reach me ?
+- 🚩 CTF player
+- ✅ Verified Discord Bot Developper
+
+---
+### 0x02 - Contact
 
 - 👥 [Linkedin](https://www.linkedin.com/in/theo-bori/)
 - 📫 Discord  : b0th#6474
