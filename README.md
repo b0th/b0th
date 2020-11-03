@@ -1,6 +1,6 @@
+## 0x01 - Who am i ?
 
-
-### Social media
+## 0x02 - How to reach me ?
 
 - 👥 [Linkedin](https://www.linkedin.com/in/theo-bori/)
 - 📫 Discord  : b0th#6474
